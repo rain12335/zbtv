@@ -39,6 +39,8 @@ source_urls = [
 
 url_blacklist = [
     "epg.pw/stream/",
+    "233.50.200.42:5140",
+    "233.50.200.192:5140",
 ]
 
 announcements = [
@@ -53,5 +55,6 @@ announcements = [
 epg_urls = [
     "https://assets.live1dnow.com/epg.xml",
 ]
+
 
 
