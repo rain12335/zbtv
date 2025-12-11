@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://assets.live1dnow.com/epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2025-12-11" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2025-12-11
+#EXTINF:-1 tvg-id="1" tvg-name="2025-12-12" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2025-12-12
 http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://115.221.89.156:7777/rtp/233.50.200.99:5140
@@ -31682,87 +31682,87 @@ http://123.191.15.105:1111/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="2" tvg-name="沈阳新闻" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁频道",沈阳新闻
 http://175.169.107.20:45555/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="1" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
-http://61.159.135.161:18000/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
-http://219.141.45.62:8188/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
 http://61.159.134.246:8188/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
-http://61.159.134.127:4022/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
+#EXTINF:-1 tvg-id="2" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
+http://61.159.135.217:8188/rtp/238.255.2.2:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
 http://61.159.134.76:4022/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
+#EXTINF:-1 tvg-id="4" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
+http://219.141.45.62:8188/rtp/238.255.2.2:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
 http://1.49.253.140:8881/rtp/238.255.2.2:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
+http://61.159.135.161:18000/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州频道",贵州公共
 http://119.1.245.115:1024/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
-http://61.159.135.161:18000/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
-http://219.141.45.62:8188/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
 http://61.159.134.246:8188/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
-http://61.159.134.127:4022/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+#EXTINF:-1 tvg-id="2" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+http://61.159.135.217:8188/rtp/238.255.2.3:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
 http://61.159.134.76:4022/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+#EXTINF:-1 tvg-id="4" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+http://219.141.45.62:8188/rtp/238.255.2.3:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
 http://1.49.253.140:8881/rtp/238.255.2.3:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+http://61.159.135.161:18000/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
 http://119.1.245.115:1024/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
-http://61.159.135.161:18000/rtp/238.255.2.4:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
-http://219.141.45.62:8188/rtp/238.255.2.4:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
 http://61.159.134.246:8188/rtp/238.255.2.4:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
-http://61.159.134.127:4022/rtp/238.255.2.4:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+#EXTINF:-1 tvg-id="2" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+http://61.159.135.217:8188/rtp/238.255.2.4:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
 http://61.159.134.76:4022/rtp/238.255.2.4:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+#EXTINF:-1 tvg-id="4" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+http://219.141.45.62:8188/rtp/238.255.2.4:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
 http://1.49.253.140:8881/rtp/238.255.2.4:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+http://61.159.135.161:18000/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州频道",贵州大众生活
 http://119.1.245.115:1024/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
-http://61.159.135.161:18000/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
-http://219.141.45.62:8188/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
 http://61.159.134.246:8188/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
-http://61.159.134.127:4022/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
+#EXTINF:-1 tvg-id="2" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
+http://61.159.135.217:8188/rtp/238.255.2.5:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
 http://61.159.134.76:4022/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
+#EXTINF:-1 tvg-id="4" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
+http://219.141.45.62:8188/rtp/238.255.2.5:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
 http://1.49.253.140:8881/rtp/238.255.2.5:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
+http://61.159.135.161:18000/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州-5" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州频道",贵州-5
 http://119.1.245.115:1024/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
-http://61.159.135.161:18000/rtp/238.255.2.6:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
-http://219.141.45.62:8188/rtp/238.255.2.6:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
 http://61.159.134.246:8188/rtp/238.255.2.6:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
-http://61.159.134.127:4022/rtp/238.255.2.6:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
+#EXTINF:-1 tvg-id="2" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
+http://61.159.135.217:8188/rtp/238.255.2.6:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
 http://61.159.134.76:4022/rtp/238.255.2.6:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
+#EXTINF:-1 tvg-id="4" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
+http://219.141.45.62:8188/rtp/238.255.2.6:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
 http://1.49.253.140:8881/rtp/238.255.2.6:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
+http://61.159.135.161:18000/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州频道",贵州科教
 http://119.1.245.115:1024/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
-http://61.159.135.161:18000/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="2" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
-http://219.141.45.62:8188/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="3" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
 http://61.159.134.246:8188/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="4" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
-http://61.159.134.127:4022/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="5" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
+#EXTINF:-1 tvg-id="2" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
+http://61.159.135.217:8188/rtp/238.255.2.9:5999
+#EXTINF:-1 tvg-id="3" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
 http://61.159.134.76:4022/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="6" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
+#EXTINF:-1 tvg-id="4" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
+http://219.141.45.62:8188/rtp/238.255.2.9:5999
+#EXTINF:-1 tvg-id="5" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
 http://1.49.253.140:8881/rtp/238.255.2.9:5999
+#EXTINF:-1 tvg-id="6" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
+http://61.159.135.161:18000/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="7" tvg-name="贵州-7" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州频道",贵州-7
 http://119.1.245.115:1024/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="1" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCTV2.png" group-title="四川频道",SCTV2
@@ -33476,77 +33476,77 @@ http://171.213.132.169:8189/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="57" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/康巴卫视.png" group-title="四川频道",康巴卫视
 http://171.213.202.157:4022/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
-http://1.56.201.190:4022/rtp/229.58.190.14:5000
+http://221.206.34.85:4022/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
-http://113.4.227.154:4000/rtp/229.58.190.14:5000
+http://1.190.145.132:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
-http://1.190.145.60:4001/rtp/229.58.190.14:5000
+http://113.4.227.154:4000/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
-http://1.56.201.190:4022/rtp/229.58.190.16:5000
+http://221.206.34.85:4022/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
-http://113.4.227.154:4000/rtp/229.58.190.16:5000
+http://1.190.145.132:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
-http://1.190.145.60:4001/rtp/229.58.190.16:5000
+http://113.4.227.154:4000/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
-http://1.56.201.190:4022/rtp/229.58.190.39:5000
+http://221.206.34.85:4022/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
-http://113.4.227.154:4000/rtp/229.58.190.39:5000
+http://1.190.145.132:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
-http://1.190.145.60:4001/rtp/229.58.190.39:5000
+http://113.4.227.154:4000/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://1.56.201.190:4022/rtp/229.58.190.30:5000
+http://221.206.34.85:4022/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://113.4.227.154:4000/rtp/229.58.190.30:5000
+http://1.190.145.132:4001/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://1.190.145.60:4001/rtp/229.58.190.30:5000
+http://113.4.227.154:4000/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://1.56.201.190:4022/rtp/229.58.190.34:5000
+http://221.206.34.85:4022/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://113.4.227.154:4000/rtp/229.58.190.34:5000
+http://1.190.145.132:4001/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://1.190.145.60:4001/rtp/229.58.190.34:5000
+http://113.4.227.154:4000/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
-http://1.56.201.190:4022/rtp/229.58.190.193:5000
+http://221.206.34.85:4022/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
-http://113.4.227.154:4000/rtp/229.58.190.193:5000
+http://1.190.145.132:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="3" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
-http://1.190.145.60:4001/rtp/229.58.190.193:5000
+http://113.4.227.154:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
-http://1.56.201.190:4022/rtp/229.58.190.171:5000
+http://221.206.34.85:4022/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
-http://113.4.227.154:4000/rtp/229.58.190.171:5000
+http://1.190.145.132:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="3" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
-http://1.190.145.60:4001/rtp/229.58.190.171:5000
+http://113.4.227.154:4000/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="1" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
-http://1.56.201.190:4022/rtp/229.58.190.195:5000
+http://221.206.34.85:4022/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="2" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
-http://113.4.227.154:4000/rtp/229.58.190.195:5000
+http://1.190.145.132:4001/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="3" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
-http://1.190.145.60:4001/rtp/229.58.190.195:5000
+http://113.4.227.154:4000/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="1" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
-http://106.59.2.72:55555/rtp/239.200.200.15:8856
-#EXTINF:-1 tvg-id="2" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
 http://106.59.3.73:55555/rtp/239.200.200.15:8856
+#EXTINF:-1 tvg-id="2" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
+http://106.59.2.72:55555/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="1" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
-http://106.59.2.72:55555/rtp/239.200.200.12:8844
-#EXTINF:-1 tvg-id="2" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
 http://106.59.3.73:55555/rtp/239.200.200.12:8844
+#EXTINF:-1 tvg-id="2" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
+http://106.59.2.72:55555/rtp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="1" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
-http://106.59.2.72:55555/rtp/239.200.200.13:8848
-#EXTINF:-1 tvg-id="2" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
 http://106.59.3.73:55555/rtp/239.200.200.13:8848
+#EXTINF:-1 tvg-id="2" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
+http://106.59.2.72:55555/rtp/239.200.200.13:8848
 #EXTINF:-1 tvg-id="1" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
-http://106.59.2.72:55555/rtp/239.200.200.31:8860
-#EXTINF:-1 tvg-id="2" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
 http://106.59.3.73:55555/rtp/239.200.200.31:8860
+#EXTINF:-1 tvg-id="2" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
+http://106.59.2.72:55555/rtp/239.200.200.31:8860
 #EXTINF:-1 tvg-id="1" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
-http://106.59.2.72:55555/rtp/239.200.200.32:8864
-#EXTINF:-1 tvg-id="2" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
 http://106.59.3.73:55555/rtp/239.200.200.32:8864
+#EXTINF:-1 tvg-id="2" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
+http://106.59.2.72:55555/rtp/239.200.200.32:8864
 #EXTINF:-1 tvg-id="1" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
-http://106.59.2.72:55555/rtp/239.200.200.33:8024
-#EXTINF:-1 tvg-id="2" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
 http://106.59.3.73:55555/rtp/239.200.200.33:8024
+#EXTINF:-1 tvg-id="2" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
+http://106.59.2.72:55555/rtp/239.200.200.33:8024
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://117.57.37.119:4022/rtp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
@@ -35680,42 +35680,42 @@ http://116.237.31.38:8888/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="16" tvg-name="BesTV电影4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/BesTV电影4K.png" group-title="4K频道",BesTV电影4K
 http://218.1.211.60:9999/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="1" tvg-name="KBS1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS1.png" group-title="韩国",KBS1
-http://180.69.60.42:8856/udp/239.192.67.100:49220
-#EXTINF:-1 tvg-id="2" tvg-name="KBS1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS1.png" group-title="韩国",KBS1
 http://211.117.153.164:4022/udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS1.png" group-title="韩国",KBS1
+http://180.69.60.42:8856/udp/239.192.67.100:49220
 #EXTINF:-1 tvg-id="1" tvg-name="KBS2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS2.png" group-title="韩国",KBS2
-http://180.69.60.42:8856/udp/239.192.67.99:49220
-#EXTINF:-1 tvg-id="2" tvg-name="KBS2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS2.png" group-title="韩国",KBS2
 http://211.117.153.164:4022/udp/239.192.67.99:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KBS2.png" group-title="韩国",KBS2
+http://180.69.60.42:8856/udp/239.192.67.99:49220
 #EXTINF:-1 tvg-id="1" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC.png" group-title="韩国",MBC
-http://180.69.60.42:8856/udp/239.192.67.101:49220
-#EXTINF:-1 tvg-id="2" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC.png" group-title="韩国",MBC
 http://211.117.153.164:4022/udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC.png" group-title="韩国",MBC
+http://180.69.60.42:8856/udp/239.192.67.101:49220
 #EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS.png" group-title="韩国",SBS
-http://180.69.60.42:8856/udp/239.192.67.98:49220
-#EXTINF:-1 tvg-id="2" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS.png" group-title="韩国",SBS
 http://211.117.153.164:4022/udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS.png" group-title="韩国",SBS
+http://180.69.60.42:8856/udp/239.192.67.98:49220
 #EXTINF:-1 tvg-id="1" tvg-name="OCN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCN.png" group-title="韩国",OCN
-http://180.69.60.42:8856/udp/239.192.67.226:49220
-#EXTINF:-1 tvg-id="2" tvg-name="OCN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCN.png" group-title="韩国",OCN
 http://211.117.153.164:4022/udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCN.png" group-title="韩国",OCN
+http://180.69.60.42:8856/udp/239.192.67.226:49220
 #EXTINF:-1 tvg-id="1" tvg-name="OCNMovies" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies.png" group-title="韩国",OCNMovies
-http://180.69.60.42:8856/udp/239.192.67.227:49220
-#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies.png" group-title="韩国",OCNMovies
 http://211.117.153.164:4022/udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies.png" group-title="韩国",OCNMovies
+http://180.69.60.42:8856/udp/239.192.67.227:49220
 #EXTINF:-1 tvg-id="1" tvg-name="OCNMovies2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies2.png" group-title="韩国",OCNMovies2
-http://180.69.60.42:8856/udp/239.192.67.228:49220
-#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies2.png" group-title="韩国",OCNMovies2
 http://211.117.153.164:4022/udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies2" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/OCNMovies2.png" group-title="韩国",OCNMovies2
+http://180.69.60.42:8856/udp/239.192.67.228:49220
 #EXTINF:-1 tvg-id="1" tvg-name="SCREEN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCREEN.png" group-title="韩国",SCREEN
-http://180.69.60.42:8856/udp/239.192.67.229:49220
-#EXTINF:-1 tvg-id="2" tvg-name="SCREEN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCREEN.png" group-title="韩国",SCREEN
 http://211.117.153.164:4022/udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SCREEN" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCREEN.png" group-title="韩国",SCREEN
+http://180.69.60.42:8856/udp/239.192.67.229:49220
 #EXTINF:-1 tvg-id="1" tvg-name="MBC ON" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC ON.png" group-title="韩国",MBC ON
-http://180.69.60.42:8856/udp/239.192.62.58:49220
-#EXTINF:-1 tvg-id="2" tvg-name="MBC ON" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC ON.png" group-title="韩国",MBC ON
 http://211.117.153.164:4022/udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC ON" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/MBC ON.png" group-title="韩国",MBC ON
+http://180.69.60.42:8856/udp/239.192.62.58:49220
 #EXTINF:-1 tvg-id="1" tvg-name="SBS F!L UHD" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS F!L UHD.png" group-title="韩国",SBS F!L UHD
-http://180.69.60.42:8856/udp/239.192.81.65:49220
-#EXTINF:-1 tvg-id="2" tvg-name="SBS F!L UHD" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS F!L UHD.png" group-title="韩国",SBS F!L UHD
 http://211.117.153.164:4022/udp/239.192.81.65:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS F!L UHD" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SBS F!L UHD.png" group-title="韩国",SBS F!L UHD
+http://180.69.60.42:8856/udp/239.192.81.65:49220
