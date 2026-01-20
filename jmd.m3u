@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://assets.live1dnow.com/epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-01-20" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-01-20
+#EXTINF:-1 tvg-id="1" tvg-name="2026-01-21" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-01-21
 http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://60.186.18.150:4022/rtp/233.50.200.99:5140
@@ -25199,28 +25199,16 @@ http://171.213.162.125:66/rtp/239.94.0.78:5140
 http://171.213.131.94:66/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="1" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
 http://106.59.2.187:55555/rtp/239.200.200.15:8856
-#EXTINF:-1 tvg-id="2" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
-http://106.59.2.255:55555/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="1" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
 http://106.59.2.187:55555/rtp/239.200.200.12:8844
-#EXTINF:-1 tvg-id="2" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
-http://106.59.2.255:55555/rtp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="1" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
 http://106.59.2.187:55555/rtp/239.200.200.13:8848
-#EXTINF:-1 tvg-id="2" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
-http://106.59.2.255:55555/rtp/239.200.200.13:8848
 #EXTINF:-1 tvg-id="1" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
 http://106.59.2.187:55555/rtp/239.200.200.31:8860
-#EXTINF:-1 tvg-id="2" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
-http://106.59.2.255:55555/rtp/239.200.200.31:8860
 #EXTINF:-1 tvg-id="1" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
 http://106.59.2.187:55555/rtp/239.200.200.32:8864
-#EXTINF:-1 tvg-id="2" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
-http://106.59.2.255:55555/rtp/239.200.200.32:8864
 #EXTINF:-1 tvg-id="1" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
 http://106.59.2.187:55555/rtp/239.200.200.33:8024
-#EXTINF:-1 tvg-id="2" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
-http://106.59.2.255:55555/rtp/239.200.200.33:8024
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://117.69.29.199:4022/rtp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
