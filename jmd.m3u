@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://assets.live1dnow.com/epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-02-23" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-02-23
+#EXTINF:-1 tvg-id="1" tvg-name="2026-02-24" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-02-24
 http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://60.186.7.218:4022/rtp/233.50.200.99:5140
@@ -23959,24 +23959,6 @@ http://106.118.76.153:4022/rtp/239.254.200.20:6000
 http://106.112.254.44:8989/rtp/239.254.200.20:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
 http://106.116.241.77:9999/rtp/239.254.200.20:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://121.29.69.38:9999/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="10" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://110.255.27.16:8088/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="11" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://121.29.248.142:8383/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="12" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://120.1.114.75:4022/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="13" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://60.4.31.87:4000/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="14" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://120.6.111.53:8088/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="15" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://121.29.160.32:8383/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="16" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://60.3.123.72:7000/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="17" tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北影视剧.png" group-title="河北频道",河北影视剧
-http://121.29.215.157:2083/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="1" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
 http://123.180.164.102:8818/rtp/239.254.200.18:6000
 #EXTINF:-1 tvg-id="2" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
@@ -23993,24 +23975,6 @@ http://106.118.76.153:4022/rtp/239.254.200.18:6000
 http://106.112.254.44:8989/rtp/239.254.200.18:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
 http://106.116.241.77:9999/rtp/239.254.200.18:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://121.29.69.38:9999/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="10" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://110.255.27.16:8088/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="11" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://121.29.248.142:8383/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="12" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://120.1.114.75:4022/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="13" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://60.4.31.87:4000/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="14" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://120.6.111.53:8088/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="15" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://121.29.160.32:8383/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="16" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://60.3.123.72:7000/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="17" tvg-name="河北经济" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北经济.png" group-title="河北频道",河北经济
-http://121.29.215.157:2083/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-id="1" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
 http://123.180.164.102:8818/rtp/239.254.200.19:6000
 #EXTINF:-1 tvg-id="2" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
@@ -24027,24 +23991,6 @@ http://106.118.76.153:4022/rtp/239.254.200.19:6000
 http://106.112.254.44:8989/rtp/239.254.200.19:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
 http://106.116.241.77:9999/rtp/239.254.200.19:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://121.29.69.38:9999/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="10" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://110.255.27.16:8088/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="11" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://121.29.248.142:8383/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="12" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://120.1.114.75:4022/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="13" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://60.4.31.87:4000/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="14" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://120.6.111.53:8088/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="15" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://121.29.160.32:8383/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="16" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://60.3.123.72:7000/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="17" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北都市.png" group-title="河北频道",河北都市
-http://121.29.215.157:2083/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-id="1" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
 http://123.180.164.102:8818/rtp/239.254.200.21:6000
 #EXTINF:-1 tvg-id="2" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
@@ -24061,24 +24007,6 @@ http://106.118.76.153:4022/rtp/239.254.200.21:6000
 http://106.112.254.44:8989/rtp/239.254.200.21:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
 http://106.116.241.77:9999/rtp/239.254.200.21:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://121.29.69.38:9999/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="10" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://110.255.27.16:8088/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="11" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://121.29.248.142:8383/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="12" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://120.1.114.75:4022/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="13" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://60.4.31.87:4000/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="14" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://120.6.111.53:8088/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="15" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://121.29.160.32:8383/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="16" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://60.3.123.72:7000/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-id="17" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北少儿科教.png" group-title="河北频道",河北少儿科教
-http://121.29.215.157:2083/rtp/239.253.92.174:6004
 #EXTINF:-1 tvg-id="1" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
 http://123.180.164.102:8818/rtp/239.254.200.22:6000
 #EXTINF:-1 tvg-id="2" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
@@ -24095,24 +24023,6 @@ http://106.118.76.153:4022/rtp/239.254.200.22:6000
 http://106.112.254.44:8989/rtp/239.254.200.22:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
 http://106.116.241.77:9999/rtp/239.254.200.22:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://121.29.69.38:9999/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="10" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://110.255.27.16:8088/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="11" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://121.29.248.142:8383/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="12" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://120.1.114.75:4022/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="13" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://60.4.31.87:4000/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="14" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://120.6.111.53:8088/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="15" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://121.29.160.32:8383/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="16" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://60.3.123.72:7000/rtp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="17" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北公共.png" group-title="河北频道",河北公共
-http://121.29.215.157:2083/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-id="1" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
 http://123.180.164.102:8818/rtp/239.254.200.23:6000
 #EXTINF:-1 tvg-id="2" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
@@ -24129,24 +24039,6 @@ http://106.118.76.153:4022/rtp/239.254.200.23:6000
 http://106.112.254.44:8989/rtp/239.254.200.23:6000
 #EXTINF:-1 tvg-id="8" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
 http://106.116.241.77:9999/rtp/239.254.200.23:6000
-#EXTINF:-1 tvg-id="9" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://121.29.69.38:9999/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="10" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://110.255.27.16:8088/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="11" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://121.29.248.142:8383/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="12" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://120.1.114.75:4022/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="13" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://60.4.31.87:4000/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="14" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://120.6.111.53:8088/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="15" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://121.29.160.32:8383/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="16" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://60.3.123.72:7000/rtp/239.253.92.176:6006
-#EXTINF:-1 tvg-id="17" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河北农民.png" group-title="河北频道",河北农民
-http://121.29.215.157:2083/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-id="1" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
 http://123.180.164.102:8818/rtp/239.254.200.157:6000
 #EXTINF:-1 tvg-id="2" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
@@ -24163,24 +24055,6 @@ http://106.118.76.153:4022/rtp/239.254.200.157:6000
 http://106.112.254.44:8989/rtp/239.254.200.157:6000
 #EXTINF:-1 tvg-id="8" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
 http://106.116.241.77:9999/rtp/239.254.200.157:6000
-#EXTINF:-1 tvg-id="9" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://121.29.69.38:9999/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="10" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://110.255.27.16:8088/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="11" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://121.29.248.142:8383/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="12" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://120.1.114.75:4022/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="13" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://60.4.31.87:4000/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="14" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://120.6.111.53:8088/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="15" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://121.29.160.32:8383/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="16" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://60.3.123.72:7000/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-id="17" tvg-name="石家庄新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄新闻综合.png" group-title="河北频道",石家庄新闻综合
-http://121.29.215.157:2083/rtp/239.253.92.149:6035
 #EXTINF:-1 tvg-id="1" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
 http://123.180.164.102:8818/rtp/239.254.200.29:6000
 #EXTINF:-1 tvg-id="2" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
@@ -24197,24 +24071,6 @@ http://106.118.76.153:4022/rtp/239.254.200.29:6000
 http://106.112.254.44:8989/rtp/239.254.200.29:6000
 #EXTINF:-1 tvg-id="8" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
 http://106.116.241.77:9999/rtp/239.254.200.29:6000
-#EXTINF:-1 tvg-id="9" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://121.29.69.38:9999/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="10" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://110.255.27.16:8088/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="11" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://121.29.248.142:8383/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="12" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://120.1.114.75:4022/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="13" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://60.4.31.87:4000/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="14" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://120.6.111.53:8088/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="15" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://121.29.160.32:8383/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="16" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://60.3.123.72:7000/rtp/239.253.92.93:8120
-#EXTINF:-1 tvg-id="17" tvg-name="石家庄娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄娱乐.png" group-title="河北频道",石家庄娱乐
-http://121.29.215.157:2083/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="1" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
 http://123.180.164.102:8818/rtp/239.254.200.30:6000
 #EXTINF:-1 tvg-id="2" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
@@ -24231,42 +24087,6 @@ http://106.118.76.153:4022/rtp/239.254.200.30:6000
 http://106.112.254.44:8989/rtp/239.254.200.30:6000
 #EXTINF:-1 tvg-id="8" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
 http://106.116.241.77:9999/rtp/239.254.200.30:6000
-#EXTINF:-1 tvg-id="9" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://121.29.69.38:9999/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="10" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://110.255.27.16:8088/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="11" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://121.29.248.142:8383/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="12" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://120.1.114.75:4022/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="13" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://60.4.31.87:4000/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="14" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://120.6.111.53:8088/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="15" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://121.29.160.32:8383/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="16" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://60.3.123.72:7000/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="17" tvg-name="石家庄生活" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/石家庄生活.png" group-title="河北频道",石家庄生活
-http://121.29.215.157:2083/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="1" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://121.29.69.38:9999/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="2" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://110.255.27.16:8088/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="3" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://121.29.248.142:8383/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="4" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://120.1.114.75:4022/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="5" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://60.4.31.87:4000/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="6" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://120.6.111.53:8088/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="7" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://121.29.160.32:8383/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="8" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://60.3.123.72:7000/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-id="9" tvg-name="中华美食" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华美食.png" group-title="河北频道",中华美食
-http://121.29.215.157:2083/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="1" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
 http://123.180.164.102:8818/rtp/239.254.201.184:6263
 #EXTINF:-1 tvg-id="2" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
@@ -24283,24 +24103,6 @@ http://106.118.76.153:4022/rtp/239.254.201.184:6263
 http://106.112.254.44:8989/rtp/239.254.201.184:6263
 #EXTINF:-1 tvg-id="8" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
 http://106.116.241.77:9999/rtp/239.254.201.184:6263
-#EXTINF:-1 tvg-id="9" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://121.29.69.38:9999/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="10" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://110.255.27.16:8088/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="11" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://121.29.248.142:8383/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="12" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://120.1.114.75:4022/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="13" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://60.4.31.87:4000/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="14" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://120.6.111.53:8088/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="15" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://121.29.160.32:8383/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="16" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://60.3.123.72:7000/rtp/239.253.93.242:6420
-#EXTINF:-1 tvg-id="17" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中华特产.png" group-title="河北频道",中华特产
-http://121.29.215.157:2083/rtp/239.253.93.242:6420
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山西卫视.png" group-title="山西频道",山西卫视
 http://110.178.145.83:8188/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="2" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山西卫视.png" group-title="山西频道",山西卫视
@@ -26987,18 +26789,6 @@ http://221.206.34.61:4022/rtp/229.58.190.195:5000
 http://1.56.158.6:4022/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="3" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
 http://1.58.247.68:4001/rtp/229.58.190.195:5000
-#EXTINF:-1 tvg-id="1" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南频道",云南影视
-http://106.59.2.113:55555/rtp/239.200.200.15:8856
-#EXTINF:-1 tvg-id="1" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南频道",云南都市
-http://106.59.2.113:55555/rtp/239.200.200.12:8844
-#EXTINF:-1 tvg-id="1" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南频道",云南娱乐
-http://106.59.2.113:55555/rtp/239.200.200.13:8848
-#EXTINF:-1 tvg-id="1" tvg-name="云南康旅" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南频道",云南康旅
-http://106.59.2.113:55555/rtp/239.200.200.31:8860
-#EXTINF:-1 tvg-id="1" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南频道",云南少儿
-http://106.59.2.113:55555/rtp/239.200.200.32:8864
-#EXTINF:-1 tvg-id="1" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南频道",澜湄国际
-http://106.59.2.113:55555/rtp/239.200.200.33:8024
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://114.100.195.25:4022/rtp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
