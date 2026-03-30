@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://assets.live1dnow.com/epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-03-30" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-03-30
+#EXTINF:-1 tvg-id="1" tvg-name="2026-03-31" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="更新日期",2026-03-31
 http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://183.129.39.7:4022/rtp/233.50.200.99:5140
@@ -23132,81 +23132,81 @@ http://171.213.169.169:8188/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://1.56.158.39:4022/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
-http://1.62.3.29:4000/rtp/229.58.190.14:5000
+http://1.56.203.138:4022/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://1.62.3.29:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
-http://1.62.113.137:4000/rtp/229.58.190.14:5000
+http://1.62.3.29:4000/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://1.62.113.137:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
 http://1.56.158.39:4022/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
-http://1.62.3.29:4000/rtp/229.58.190.16:5000
+http://1.56.203.138:4022/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
 http://1.62.3.29:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
-http://1.62.113.137:4000/rtp/229.58.190.16:5000
+http://1.62.3.29:4000/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江新闻法制" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江频道",黑龙江新闻法制
 http://1.62.113.137:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://1.56.158.39:4022/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
-http://1.62.3.29:4000/rtp/229.58.190.39:5000
+http://1.56.203.138:4022/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://1.62.3.29:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
-http://1.62.113.137:4000/rtp/229.58.190.39:5000
+http://1.62.3.29:4000/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://1.62.113.137:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://1.56.158.39:4022/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://1.62.3.29:4000/rtp/229.58.190.30:5000
+http://1.56.203.138:4022/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://1.62.3.29:4001/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://1.62.113.137:4000/rtp/229.58.190.30:5000
+http://1.62.3.29:4000/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://1.62.113.137:4001/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://1.56.158.39:4022/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://1.62.3.29:4000/rtp/229.58.190.34:5000
+http://1.56.203.138:4022/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://1.62.3.29:4001/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://1.62.113.137:4000/rtp/229.58.190.34:5000
+http://1.62.3.29:4000/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://1.62.113.137:4001/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
 http://1.56.158.39:4022/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
-http://1.62.3.29:4000/rtp/229.58.190.193:5000
+http://1.56.203.138:4022/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="3" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
 http://1.62.3.29:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="4" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
-http://1.62.113.137:4000/rtp/229.58.190.193:5000
+http://1.62.3.29:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="5" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江频道",齐齐哈尔新闻综合
 http://1.62.113.137:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
 http://1.56.158.39:4022/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
-http://1.62.3.29:4000/rtp/229.58.190.171:5000
+http://1.56.203.138:4022/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="3" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
 http://1.62.3.29:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="4" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
-http://1.62.113.137:4000/rtp/229.58.190.171:5000
+http://1.62.3.29:4000/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="5" tvg-name="齐齐哈尔经济法治" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江频道",齐齐哈尔经济法治
 http://1.62.113.137:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="1" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
 http://1.56.158.39:4022/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="2" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
-http://1.62.3.29:4000/rtp/229.58.190.195:5000
+http://1.56.203.138:4022/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="3" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
 http://1.62.3.29:4001/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="4" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
-http://1.62.113.137:4000/rtp/229.58.190.195:5000
+http://1.62.3.29:4000/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="5" tvg-name="HRBTV1" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江频道",HRBTV1
 http://1.62.113.137:4001/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
