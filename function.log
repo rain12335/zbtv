@@ -1,36 +1,36 @@
-2026-11-09 22:46:54,704 - ERROR - url: https://zjjdx.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://zjjdx.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt
-2026-11-09 22:46:54,902 - ERROR - url: https://shhdx.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://shhdx.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt
-2026-11-09 22:46:55,122 - ERROR - url: https://gdddx.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gdddx.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt
-2026-11-09 22:46:55,335 - ERROR - url: https://bjjdx.yangfeiyue.dpdns.org/txt/Beijing_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjjdx.yangfeiyue.dpdns.org/txt/Beijing_dianxin.txt
-2026-11-09 22:46:55,680 - ERROR - url: https://bjjlt.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjjlt.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt
-2026-11-09 22:46:55,856 - ERROR - url: https://tjjlt.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://tjjlt.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt
-2026-11-09 22:46:56,061 - ERROR - url: https://jssdx.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jssdx.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt
-2026-11-09 22:46:56,299 - ERROR - url: https://ccqqdx.yangfeiyue.dpdns.org/txt/Chongqing_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ccqqdx.yangfeiyue.dpdns.org/txt/Chongqing_dianxin.txt
-2026-11-09 22:46:56,766 - ERROR - url: https://cqqlt.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://cqqlt.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt
-2026-11-09 22:46:56,964 - ERROR - url: https://ssxdx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssxdx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt
-2026-11-09 22:46:57,240 - ERROR - url: https://jxxdx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jxxdx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt
-2026-11-09 22:46:57,422 - ERROR - url: https://fjjdx.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://fjjdx.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt
-2026-11-09 22:46:57,633 - ERROR - url: https://ahhdx.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ahhdx.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt
-2026-11-09 22:46:57,834 - ERROR - url: https://hnndx.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hnndx.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt
-2026-11-09 22:46:58,010 - ERROR - url: https://sccdx.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sccdx.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt
-2026-11-09 22:46:58,276 - ERROR - url: https://scyd.yangfeiyue.dpdns.org/txt/Sichuan_yidong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://scyd.yangfeiyue.dpdns.org/txt/Sichuan_yidong.txt
-2026-11-09 22:46:58,477 - ERROR - url: https://gxxdx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gxxdx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt
-2026-11-09 22:46:58,711 - ERROR - url: https://hbbdx.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hbbdx.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt
-2026-11-09 22:46:58,874 - ERROR - url: https://hebbdx.yangfeiyue.dpdns.org/txt/Hebei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hebbdx.yangfeiyue.dpdns.org/txt/Hebei_dianxin.txt
-2026-11-09 22:46:59,091 - ERROR - url: https://heeblt.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://heeblt.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt
-2026-11-09 22:46:59,339 - ERROR - url: https://ssxxdx.yangfeiyue.dpdns.org/txt/Shanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssxxdx.yangfeiyue.dpdns.org/txt/Shanxi_dianxin.txt
-2026-11-09 22:46:59,540 - ERROR - url: https://sxxlt.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sxxlt.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt
-2026-11-09 22:46:59,692 - ERROR - url: https://hhndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
-2026-11-09 22:46:59,846 - ERROR - url: https://hhnndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhnndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
-2026-11-09 22:47:00,013 - ERROR - url: https://hanndx.yangfeiyue.dpdns.org/txt/Hainan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hanndx.yangfeiyue.dpdns.org/txt/Hainan_dianxin.txt
-2026-11-09 22:47:00,191 - ERROR - url: https://lnnlt.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://lnnlt.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt
-2026-11-09 22:47:00,351 - ERROR - url: https://hljjlt.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hljjlt.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt
-2026-11-09 22:47:00,547 - ERROR - url: https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt
-2026-11-09 22:47:00,729 - ERROR - url: https://gzzdx.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gzzdx.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt
-2026-11-09 22:47:00,888 - ERROR - url: https://nxxdx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://nxxdx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt
-2026-11-09 22:47:01,052 - ERROR - url: https://ynndx.yangfeiyue.dpdns.org/txt/Yunnan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ynndx.yangfeiyue.dpdns.org/txt/Yunnan_dianxin.txt
-2026-11-09 22:47:01,313 - ERROR - url: https://ggdd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ggdd.yangfeiyue.dpdns.org/txt/Guang_dian.txt
-2026-11-09 22:47:01,502 - INFO - url: https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt 获取成功，判断为m3u格式
-2026-11-09 22:47:01,503 - INFO - url: https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt 爬取成功✅，包含频道分类: 韩国高清
-2026-11-09 22:47:01,973 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u 获取成功，判断为txt格式
-2026-11-09 22:47:01,973 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u 爬取成功✅，包含频道分类: ZJYD
+2026-11-10 12:25:30,041 - ERROR - url: https://zjjdx.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://zjjdx.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt
+2026-11-10 12:25:30,222 - ERROR - url: https://shhdx.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://shhdx.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt
+2026-11-10 12:25:30,379 - ERROR - url: https://gdddx.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gdddx.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt
+2026-11-10 12:25:30,551 - ERROR - url: https://bjjdx.yangfeiyue.dpdns.org/txt/Beijing_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjjdx.yangfeiyue.dpdns.org/txt/Beijing_dianxin.txt
+2026-11-10 12:25:30,755 - ERROR - url: https://bjjlt.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjjlt.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt
+2026-11-10 12:25:30,921 - ERROR - url: https://tjjlt.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://tjjlt.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt
+2026-11-10 12:25:31,184 - ERROR - url: https://jssdx.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jssdx.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt
+2026-11-10 12:25:31,455 - ERROR - url: https://ccqqdx.yangfeiyue.dpdns.org/txt/Chongqing_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ccqqdx.yangfeiyue.dpdns.org/txt/Chongqing_dianxin.txt
+2026-11-10 12:25:31,604 - ERROR - url: https://cqqlt.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://cqqlt.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt
+2026-11-10 12:25:31,765 - ERROR - url: https://ssxdx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssxdx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt
+2026-11-10 12:25:31,933 - ERROR - url: https://jxxdx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jxxdx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt
+2026-11-10 12:25:32,081 - ERROR - url: https://fjjdx.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://fjjdx.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt
+2026-11-10 12:25:32,243 - ERROR - url: https://ahhdx.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ahhdx.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt
+2026-11-10 12:25:32,410 - ERROR - url: https://hnndx.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hnndx.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt
+2026-11-10 12:25:32,551 - ERROR - url: https://sccdx.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sccdx.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt
+2026-11-10 12:25:32,717 - ERROR - url: https://scyd.yangfeiyue.dpdns.org/txt/Sichuan_yidong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://scyd.yangfeiyue.dpdns.org/txt/Sichuan_yidong.txt
+2026-11-10 12:25:32,865 - ERROR - url: https://gxxdx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gxxdx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt
+2026-11-10 12:25:33,058 - ERROR - url: https://hbbdx.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hbbdx.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt
+2026-11-10 12:25:33,213 - ERROR - url: https://hebbdx.yangfeiyue.dpdns.org/txt/Hebei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hebbdx.yangfeiyue.dpdns.org/txt/Hebei_dianxin.txt
+2026-11-10 12:25:33,472 - ERROR - url: https://heeblt.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://heeblt.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt
+2026-11-10 12:25:33,625 - ERROR - url: https://ssxxdx.yangfeiyue.dpdns.org/txt/Shanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssxxdx.yangfeiyue.dpdns.org/txt/Shanxi_dianxin.txt
+2026-11-10 12:25:33,764 - ERROR - url: https://sxxlt.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sxxlt.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt
+2026-11-10 12:25:33,919 - ERROR - url: https://hhndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
+2026-11-10 12:25:34,069 - ERROR - url: https://hhnndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhnndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
+2026-11-10 12:25:34,210 - ERROR - url: https://hanndx.yangfeiyue.dpdns.org/txt/Hainan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hanndx.yangfeiyue.dpdns.org/txt/Hainan_dianxin.txt
+2026-11-10 12:25:34,383 - ERROR - url: https://lnnlt.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://lnnlt.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt
+2026-11-10 12:25:34,532 - ERROR - url: https://hljjlt.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hljjlt.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt
+2026-11-10 12:25:34,712 - ERROR - url: https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt
+2026-11-10 12:25:34,899 - ERROR - url: https://gzzdx.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gzzdx.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt
+2026-11-10 12:25:35,065 - ERROR - url: https://nxxdx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://nxxdx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt
+2026-11-10 12:25:35,217 - ERROR - url: https://ynndx.yangfeiyue.dpdns.org/txt/Yunnan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ynndx.yangfeiyue.dpdns.org/txt/Yunnan_dianxin.txt
+2026-11-10 12:25:35,387 - ERROR - url: https://ggdd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ggdd.yangfeiyue.dpdns.org/txt/Guang_dian.txt
+2026-11-10 12:25:35,570 - INFO - url: https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt 获取成功，判断为m3u格式
+2026-11-10 12:25:35,571 - INFO - url: https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt 爬取成功✅，包含频道分类: 韩国高清
+2026-11-10 12:25:36,175 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u 获取成功，判断为txt格式
+2026-11-10 12:25:36,176 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u 爬取成功✅，包含频道分类: ZJYD
